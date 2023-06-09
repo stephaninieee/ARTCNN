@@ -7,3 +7,7 @@ Convolutional Neural Networks, or CNNs, are powerful deep learning models widely
 - artists.csv: A dataset containing information for each artist.
 - train_resized/: An image dataset consisting of training paintings. The image names include the respective author's name.
 - test_resized/: An image dataset consisting of testing paintings. The image names include the respective author's name.
+
+## Step 1. Import Libraries
+
+## Step 2. 
